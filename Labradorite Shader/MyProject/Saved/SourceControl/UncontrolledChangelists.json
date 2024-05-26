@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/labradoriteshader.umap",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/labradoruite.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/High_resolution_wallpaper_background_ID_77700461643-1641515552.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/Labradorita-White-1200-254319854.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/piVms8T-3337062072.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/507096aa3515939ad085ecb6b077d896-1708795220.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/cracked-texture-8-1148425055.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/lambert1.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/Rocks.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_pSphere2_Skeleton.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_pSphere2_PhysicsAsset.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/Wall.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/pillars.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/Stairs.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/StairSide.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/DecorationFrame.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/DecorationFaucet.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/Platforms.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_wall_blockout_Skeleton.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_wall_blockout_PhysicsAsset.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/MainCave.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_NewCaveModel_Skeleton.uasset",
+				"C:/Users/emanu/Desktop/MyProject/Content/Scenes/labradoriteshader1/CaveSceneToTexture_NewCaveModel_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
